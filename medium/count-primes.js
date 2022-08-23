@@ -23,6 +23,15 @@ var countPrimes = function (n) {
   }
   return count;
 };
+function isPrimes (x) {
+  let flag = 1;
+  for (var i = 2; i * i <= x; i++) {
+    if (x % i == 0) {
+      flag = 0;
+    }
+  }
+  return flag;
+}
 
 /**
  * 最简单的超出时间限制的循环
