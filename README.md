@@ -40,4 +40,5 @@
 | 977.有序数组的平方|数组、双指针|easy|[JS](easy/squares-of-a-sorted-array)|
 | 1480.一维数组的动态和|数组|easy|[JS](easy/running-sum-of-1d-array.js)|
 | 1748.唯一元素的和|数组|easy|[JS](easy/sum-of-unique-elements.js)|
+| 1991.找到数组的中间位置|数组、前缀和|easy|[JS](easy/find-the-middle-index-in-array.js)|
 | 2235.两整数相加|数学|easy|[JS](easy/add-two-integers.js)|
