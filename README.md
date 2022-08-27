@@ -11,6 +11,7 @@
 | 35.搜索插入位置|二分法|easy|[JS](easy/search-insert-position.js)|
 | 38.外观数列|数学|medium|[JS](medium/count-and-say.js)|
 | 43.字符串相乘*|数学|medium|[JS](medium/multiply-strings.js)|
+| 48.旋转矩阵|数组|medium|[JS](medium/rotate-image.js)|
 | 50.Pow(x, n)|数学、递归|medium|[JS](medium/powx-n.js)|
 | 62.不同路径*|动态规划|medium|[JS](medium/unique-paths.js)|
 | 66.加一|数组|easy|[JS](easy/plus-one.js)|
