@@ -18,6 +18,7 @@
 | 67.二进制求和|数学、位运算|easy|[JS](easy/add-binary.js)|
 | 69.x的平方根|二分法|easy|[JS](easy/sqrtx.js)|
 | 70.爬楼梯|动态规划|easy|[JS](easy/climbing-stairs.js)|
+| 73.矩阵置零|数组、哈希|medium|[JS](medium/set-matrix-zeroes.js)|
 | 88.合并两个有序数组|双指针|easy|[JS](easy/merge-sorted-array.js)|
 | 136.只出现一次的数字|位运算|easy|[JS](easy/single-number.js)|
 | 167.两数之和II|双指针|medium|[JS](medium/two-sum-ii-input-array-is-sorted.js)|
@@ -34,6 +35,7 @@
 | 367.有效的完全平方数|二分法|easy|[JS](easy/valid-perfect-square.js)|
 | 415.字符串相加|数学|easy|[JS](easy/add-strings.js)|
 | 461.汉明距离|位运算|easy|[JS](easy/hamming-distance.js)|
+| 498.对角线遍历|数组|medium|[JS](medium/diagonal-traverse.js)|
 | 504.七进制数|数学|easy|[JS](easy/base-7.js)|
 | 507.完美数|数学|easy|[JS](easy/perfect-number.js)|
 | 509.斐波那契数*|递归、动态规划|easy|[JS](easy/fibonacci-numbe.js)|
