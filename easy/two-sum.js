@@ -1,4 +1,21 @@
 /**
+ * 对象
+ * 遍历数组
+ *  检查对象中是否有target - 数组当前元素的值的属性
+ *  没有则把当前元素做数学，位置做值保存都在对象中
+ *  有的话则然后target - 当前元素属性的值，和循环当前的计数器
+ */
+var twoSum = function (nums, target) {
+  let numMap = new Object;
+  for (var i = 0; i < nums.length; i++) {
+    if (!((target - nums[i]) in numMap)) {
+      numMap[nums[i]] = i;
+    } else {
+      return [numMap[target - nums[i]], i];
+    }
+  }
+};
+/**
  * 最后一个元素的下标位length -1
  * 所以当pop的元素是target两个目标值之一是当前nums的长度就是次元素在初始数组的位置
  * 而且pop最后一个元素不会改变其他元素的下标
