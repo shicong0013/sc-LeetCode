@@ -5,17 +5,17 @@
  *  当目标小于当前行的第一个元素时则表示目标在当前行的上面
  * 在根据得到的行数，在该行二分查找
  */
-var searchMatrix = function (matrix, target) {
+var searchMatrix = function  (matrix, target) {
   let col = matrix.length - 1;
-  let row = matrix[0].length - 1;
+  let row = matrix[0].length - 1; 
   if (matrix[0][0] > target) {
-    return false;
+    ret urn false; 
   }
   let colL = 0;
   let colR = col;
-  let colM = 0;
+  let  colM = 0; 
   while (colL <= colR) {
-    colM = Math.floor((colL + colR) / 2);
+    colM = Ma th.floor((colL + colR) / 2);
     if (matrix[colM][row] < target) {
       colL = colM + 1;
     } else if (matrix[colM][0] > target) {
