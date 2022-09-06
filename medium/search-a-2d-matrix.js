@@ -5,23 +5,23 @@
  * mid除以二维数组的长度可以得到mid在二维数组中的行数
  * 再对二维数组的长度区域，可以得到当前行二维数组中的列数
  */
-var searchMatrix = function (matrix, target) {
+var searchMatrix = function(matrix, target) {
   let left = 0;
-  let righ = matrix.length * matrix[0].length - 1;
+  let righ = matrix.length * matrix[0].length -1 ;
 
-  while (left <= righ) {
+  while(left <= righ){ 
     var mid = Math.floor((left + righ) / 2);
     var x = Math.floor(mid / matrix[0].length);
     var y = mid % matrix[0].length;
-    if (matrix[x]y] < target){
+    if(matrix[x][y] < target){
       left = mid + 1;
-  } else if (matrix[x][y] > target) {
-    righ = mid - 1;
-  } else {
-    return true
+    } else if(matrix[x][y] > target) {
+      righ = mid - 1;
+    } else {
+      return true
+    }
   }
-}
-return false;
+  return false;
 };
 /**
  * 二分
