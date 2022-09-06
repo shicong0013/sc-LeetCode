@@ -9,10 +9,13 @@
 | 3.无重复字符的最长子串|哈希表、滑动窗口|medium| [JS](medium/longest-substring-without-repeating-characters.js)|
 | 7.整数反转|数学|medium| [JS](medium/reverse-integer.js)|
 | 9.回文数|数学|easy|[JS](easy/palindrome-number.js)|
+| 11.盛最多水的容器|双指针、贪心|medium| [JS](medium/container-with-most-water.js)|
 | 14.最长公共前缀|字符串|easy|[JS](easy/longest-common-prefix.js)|
 | 26.删除有序数组中的重复项|数组、双指针|easy|[JS](easy/remove-duplicates-from-sorted-array.js)|
+| 20.有效的括号|栈|easy|[JS](easy/valid-parentheses.js)|
 | 35.搜索插入位置|二分法|easy|[JS](easy/search-insert-position.js)|
 | 38.外观数列|数学|medium|[JS](medium/count-and-say.js)|
+| 42.接雨水*|双指针|hard|[JS](hard/trapping-rain-water.js)|
 | 43.字符串相乘*|数学|medium|[JS](medium/multiply-strings.js)|
 | 48.旋转矩阵|数组|medium|[JS](medium/rotate-image.js)|
 | 49.字母异位词分组|哈希表|medium|[JS](medium/group-anagrams.js)|
@@ -36,6 +39,8 @@
 | 205.同构字符串|哈希表|easy|[JS](easy/isomorphic-strings.js)|
 | 204.计数质数*|数学、数组|medium|[JS](medium/count-primes.js)|
 | 231.2的幂|数学、位运算|easy|[JS](easy/power-of-two.js)|
+| 237.删除链表中的节点|链表|medium|[JS](medium/delete-node-in-a-linked-list.js)|
+| 240.搜索二维矩阵 II|二分、分治|medium|[JS](medium/search-a-2d-matrix-ii.js)|
 | 242.有效的字母异位词|哈希表|easy|[JS](easy/valid-anagram.js)|
 | 258.各位相加|数学|easy|[JS](easy/add-digits.js)|
 | 263.丑数|数学|easy|[JS](easy/ugly-number.js)|
@@ -62,6 +67,7 @@
 | 704.二分查找|二分法|easy|[JS](easy/binary-search.js)|
 | 709.转换成小写字母|字符串|easy|[JS](easy/to-lower-case.js)|
 | 728.自除数*|数学|easy|[JS](easy/self-dividing-numbers.js)|
+| 905.按奇偶排序数组|双指针|easy|[JS](easy/sort-array-by-parity.js)|
 | 912.排序数组|多种排序|medium|[JS](medium/sort-an-array.js)|
 | 977.有序数组的平方|数组、双指针|easy|[JS](easy/squares-of-a-sorted-array)|
 | 1480.一维数组的动态和|数组|easy|[JS](easy/running-sum-of-1d-array.js)|
