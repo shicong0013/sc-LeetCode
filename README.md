@@ -13,6 +13,7 @@
 | 14.最长公共前缀|字符串|easy|[JS](easy/longest-common-prefix.js)|
 | 26.删除有序数组中的重复项|数组、双指针|easy|[JS](easy/remove-duplicates-from-sorted-array.js)|
 | 20.有效的括号|栈|easy|[JS](easy/valid-parentheses.js)|
+| 21.合并两个有序链表|链表、递归|easy|[JS](easy/merge-two-sorted-lists.js)|
 | 35.搜索插入位置|二分法|easy|[JS](easy/search-insert-position.js)|
 | 38.外观数列|数学|medium|[JS](medium/count-and-say.js)|
 | 42.接雨水*|双指针|hard|[JS](hard/trapping-rain-water.js)|
@@ -29,14 +30,19 @@
 | 71.简化路径|字符串|medium|[JS](medium/simplify-path.js)|
 | 73.矩阵置零|数组、哈希|medium|[JS](medium/set-matrix-zeroes.js)|
 | 74.搜索二维矩阵|二分法|medium|[JS](medium/search-a-2d-matrix.js)|
+| 83.删除排序链表中的重复元素|递归、链表|easy|[JS](easy/remove-duplicates-from-sorted-list.js)|
 | 88.合并两个有序数组|双指针|easy|[JS](easy/merge-sorted-array.js)|
 | 118.杨辉三角|动态规划|easy|[JS](easy/pascals-triangle.js)|
 | 136.只出现一次的数字|位运算|easy|[JS](easy/single-number.js)|
+| 148.排序链表|链表、递归|medium|[JS](medium/sort-list.js)|
 | 167.两数之和II|双指针|medium|[JS](medium/two-sum-ii-input-array-is-sorted.js)|
 | 169.多数元素|位运算|哈希|[JS](easy/majority-element.js)|
 | 191.位1的个数|位运算|easy|[JS](easy/number-of-1-bits.js)|
 | 202.快乐数|哈希表、双指针|easy|[JS](easy/happy-number.js)|
+| 203.移除链表元素|递归、链表|easy|[JS](easy/remove-linked-list-elements.js)|
 | 205.同构字符串|哈希表|easy|[JS](easy/isomorphic-strings.js)|
+| 206.反转链表|链表、递归|easy|[JS](easy/reverse-linked-list.js)|
+
 | 204.计数质数*|数学、数组|medium|[JS](medium/count-primes.js)|
 | 231.2的幂|数学、位运算|easy|[JS](easy/power-of-two.js)|
 | 237.删除链表中的节点|链表|medium|[JS](medium/delete-node-in-a-linked-list.js)|
