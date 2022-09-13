@@ -11,6 +11,7 @@
 | 7.整数反转|数学|medium| [JS](medium/reverse-integer.js)|
 | 9.回文数|数学|easy|[JS](easy/palindrome-number.js)|
 | 11.盛最多水的容器|双指针、贪心|medium| [JS](medium/container-with-most-water.js)|
+| 13.罗马数字转整数|哈希表|easy|[JS](easy/roman-to-integer.js)|
 | 14.最长公共前缀|字符串|easy|[JS](easy/longest-common-prefix.js)|
 | 19.删除链表的倒数第 N 个结点|链表、递归|medium|[JS](medium/remove-nth-node-from-end-of-list.js)|
 | 26.删除有序数组中的重复项|数组、双指针|easy|[JS](easy/remove-duplicates-from-sorted-array.js)|
@@ -45,11 +46,11 @@
 | 167.两数之和II|双指针|medium|[JS](medium/two-sum-ii-input-array-is-sorted.js)|
 | 169.多数元素|位运算|哈希|[JS](easy/majority-element.js)|
 | 191.位1的个数|位运算|easy|[JS](easy/number-of-1-bits.js)|
+| 193.有效电话号码|正则|easy|[JS](easy/valid-phone-numbers.js)|
 | 202.快乐数|哈希表、双指针|easy|[JS](easy/happy-number.js)|
 | 203.移除链表元素|递归、链表|easy|[JS](easy/remove-linked-list-elements.js)|
 | 205.同构字符串|哈希表|easy|[JS](easy/isomorphic-strings.js)|
 | 206.反转链表|链表、递归|easy|[JS](easy/reverse-linked-list.js)|
-
 | 204.计数质数*|数学、数组|medium|[JS](medium/count-primes.js)|
 | 231.2的幂|数学、位运算|easy|[JS](easy/power-of-two.js)|
 | 237.删除链表中的节点|链表|medium|[JS](medium/delete-node-in-a-linked-list.js)|
@@ -81,6 +82,8 @@
 | 704.二分查找|二分法|easy|[JS](easy/binary-search.js)|
 | 709.转换成小写字母|字符串|easy|[JS](easy/to-lower-case.js)|
 | 728.自除数*|数学|easy|[JS](easy/self-dividing-numbers.js)|
+| 848.字母移位|前缀和|medium|[JS](medium/shifting-letters.js)|
+| 860.柠檬水找零|贪心|easy|[JS](easy/lemonade-change.js)|
 | 876.链表的中间结点|链表、双指针|easy|[JS](easy/middle-of-the-linked-list.js)|
 | 905.按奇偶排序数组|双指针|easy|[JS](easy/sort-array-by-parity.js)|
 | 912.排序数组|多种排序|medium|[JS](medium/sort-an-array.js)|

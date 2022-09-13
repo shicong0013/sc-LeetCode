@@ -3,8 +3,8 @@
  * 通过递归进入到最内侧链表
  * 然后用return来逐层处理当前层val是否相等
  */
-var removeElements = function (head, val) {
-  if (!head) {
+var removeElements = function  head, val) {
+  if  (!head ) {
     return head
   }
   head.next = removeElements(head.next, val);
