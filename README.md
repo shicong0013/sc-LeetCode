@@ -36,12 +36,15 @@
 | 74.搜索二维矩阵|二分法|medium|[JS](medium/search-a-2d-matrix.js)|
 | 83.删除排序链表中的重复元素|递归、链表|easy|[JS](easy/remove-duplicates-from-sorted-list.js)|
 | 88.合并两个有序数组|双指针|easy|[JS](easy/merge-sorted-array.js)|
+| 94.二叉树的中序遍历|二叉树、递归|easy|[JS](easy/binary-tree-inorder-traversal.js)|
 | 104.二叉树的最大深度|二叉树、递归|easy|[JS](easy/maximum-depth-of-binary-tree.js)|
 | 110.平衡二叉树|二叉树、递归|easy|[JS](easy/balanced-binary-tree.js)|
 | 118.杨辉三角|动态规划|easy|[JS](easy/pascals-triangle.js)|
 | 136.只出现一次的数字|位运算|easy|[JS](easy/single-number.js)|
 | 141.环形链表|链表|easy|[JS](easy/linked-list-cycle.js)|
 | 142.环形链表 II|链表|medium|[JS](medium/linked-list-cycle-ii.js)|
+| 144.二叉树的前序遍历|二叉树、递归|easy|[JS](easy/binary-tree-preorder-traversal.js)|
+| 145.二叉树的后序遍历|二叉树、递归|easy|[JS](easy/binary-tree-postorder-traversal.js)|
 | 148.排序链表|链表、递归|medium|[JS](medium/sort-list.js)|
 | 167.两数之和II|双指针|medium|[JS](medium/two-sum-ii-input-array-is-sorted.js)|
 | 169.多数元素|位运算|哈希|[JS](easy/majority-element.js)|
