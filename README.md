@@ -55,6 +55,7 @@
 | 205.同构字符串|哈希表|easy|[JS](easy/isomorphic-strings.js)|
 | 206.反转链表|链表、递归|easy|[JS](easy/reverse-linked-list.js)|
 | 204.计数质数*|数学、数组|medium|[JS](medium/count-primes.js)|
+| 226.翻转二叉树|二叉树|easy|[JS](easy/invert-binary-tree.js)|
 | 231.2的幂|数学、位运算|easy|[JS](easy/power-of-two.js)|
 | 237.删除链表中的节点|链表|medium|[JS](medium/delete-node-in-a-linked-list.js)|
 | 240.搜索二维矩阵 II|二分、分治|medium|[JS](medium/search-a-2d-matrix-ii.js)|
