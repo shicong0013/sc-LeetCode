@@ -39,6 +39,7 @@
 | 94.二叉树的中序遍历|二叉树、递归|easy|[JS](easy/binary-tree-inorder-traversal.js)|
 | 104.二叉树的最大深度|二叉树、递归|easy|[JS](easy/maximum-depth-of-binary-tree.js)|
 | 110.平衡二叉树|二叉树、递归|easy|[JS](easy/balanced-binary-tree.js)|
+| 111.二叉树的最小深度|二叉树、递归|easy|[JS](easy/minimum-depth-of-binary-tree.js)|
 | 118.杨辉三角|动态规划|easy|[JS](easy/pascals-triangle.js)|
 | 136.只出现一次的数字|位运算|easy|[JS](easy/single-number.js)|
 | 141.环形链表|链表|easy|[JS](easy/linked-list-cycle.js)|
