@@ -37,6 +37,7 @@
 | 83.删除排序链表中的重复元素|递归、链表|easy|[JS](easy/remove-duplicates-from-sorted-list.js)|
 | 88.合并两个有序数组|双指针|easy|[JS](easy/merge-sorted-array.js)|
 | 94.二叉树的中序遍历|二叉树、递归|easy|[JS](easy/binary-tree-inorder-traversal.js)|
+| 100.相同的树|二叉树、递归|easy|[JS](easy/same-tree.js)|
 | 104.二叉树的最大深度|二叉树、递归|easy|[JS](easy/maximum-depth-of-binary-tree.js)|
 | 110.平衡二叉树|二叉树、递归|easy|[JS](easy/balanced-binary-tree.js)|
 | 111.二叉树的最小深度|二叉树、递归|easy|[JS](easy/minimum-depth-of-binary-tree.js)|
