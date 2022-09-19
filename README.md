@@ -38,6 +38,7 @@
 | 88.合并两个有序数组|双指针|easy|[JS](easy/merge-sorted-array.js)|
 | 94.二叉树的中序遍历|二叉树、递归|easy|[JS](easy/binary-tree-inorder-traversal.js)|
 | 100.相同的树|二叉树、递归|easy|[JS](easy/same-tree.js)|
+| 102.二叉树的层序遍历|二叉树、广度优先|medium|[JS](medium/binary-tree-level-order-traversal.js)|
 | 104.二叉树的最大深度|二叉树、递归|easy|[JS](easy/maximum-depth-of-binary-tree.js)|
 | 110.平衡二叉树|二叉树、递归|easy|[JS](easy/balanced-binary-tree.js)|
 | 111.二叉树的最小深度|二叉树、递归|easy|[JS](easy/minimum-depth-of-binary-tree.js)|
@@ -83,6 +84,7 @@
 | 504.七进制数|数学|easy|[JS](easy/base-7.js)|
 | 507.完美数|数学|easy|[JS](easy/perfect-number.js)|
 | 509.斐波那契数*|递归、动态规划|easy|[JS](easy/fibonacci-numbe.js)|
+| 617.合并二叉树|二叉树、递归|easy|[JS](easy/merge-two-binary-trees.js)|
 | 647.回文子串--|动态规划|medium|[JS](medium/palindromic-substrings.js)|
 | 674.最长连续递增序列*|动态规划|easy|[JS](easy/longest-continuous-increasing-subsequence.js)|
 | 704.二分查找|二分法|easy|[JS](easy/binary-search.js)|
