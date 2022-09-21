@@ -88,6 +88,7 @@
 | 509.斐波那契数*|递归、动态规划|easy|[JS](easy/fibonacci-numbe.js)|
 | 617.合并二叉树|二叉树、递归|easy|[JS](easy/merge-two-binary-trees.js)|
 | 647.回文子串--|动态规划|medium|[JS](medium/palindromic-substrings.js)|
+| 655.输出二叉树|二叉树、DFS、BFS|medium|[JS](medium/print-binary-tree.js)|
 | 674.最长连续递增序列*|动态规划|easy|[JS](easy/longest-continuous-increasing-subsequence.js)|
 | 704.二分查找|二分法|easy|[JS](easy/binary-search.js)|
 | 709.转换成小写字母|字符串|easy|[JS](easy/to-lower-case.js)|
