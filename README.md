@@ -41,6 +41,7 @@
 | 102.二叉树的层序遍历|二叉树、广度优先|medium|[JS](medium/binary-tree-level-order-traversal.js)|
 | 104.二叉树的最大深度|二叉树、递归|easy|[JS](easy/maximum-depth-of-binary-tree.js)|
 | 105.从前序与中序遍历序列构造二叉树*|二叉树、哈希表|medium|[JS](medium/construct-binary-tree-from-preorder-and-inorder-traversal.js)|
+| 106.从中序与后序遍历序列构造二叉树|二叉树、哈希表|medium|[JS](medium/construct-binary-tree-from-inorder-and-postorder-traversal.js)|
 | 107.二叉树的层序遍历 II|二叉树、递归|medium|[JS](medium/binary-tree-level-order-traversal-ii.js)|
 | 110.平衡二叉树|二叉树、递归|easy|[JS](easy/balanced-binary-tree.js)|
 | 111.二叉树的最小深度|二叉树、递归|easy|[JS](easy/minimum-depth-of-binary-tree.js)|
