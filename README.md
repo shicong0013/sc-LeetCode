@@ -37,11 +37,12 @@
 | 83.删除排序链表中的重复元素|递归、链表|easy|[JS](easy/remove-duplicates-from-sorted-list.js)|
 | 88.合并两个有序数组|双指针|easy|[JS](easy/merge-sorted-array.js)|
 | 94.二叉树的中序遍历|二叉树、递归|easy|[JS](easy/binary-tree-inorder-traversal.js)|
+| 98.验证二叉搜索树|二叉树|medium|[JS](medium/validate-binary-search-tree.js)|
 | 100.相同的树|二叉树、递归|easy|[JS](easy/same-tree.js)|
 | 102.二叉树的层序遍历|二叉树、广度优先|medium|[JS](medium/binary-tree-level-order-traversal.js)|
 | 104.二叉树的最大深度|二叉树、递归|easy|[JS](easy/maximum-depth-of-binary-tree.js)|
 | 105.从前序与中序遍历序列构造二叉树*|二叉树、哈希表|medium|[JS](medium/construct-binary-tree-from-preorder-and-inorder-traversal.js)|
-| 106.从中序与后序遍历序列构造二叉树|二叉树、哈希表|medium|[JS](medium/construct-binary-tree-from-inorder-and-postorder-traversal.js)|
+| 106.从中序与后序遍历序列构造二叉树*|二叉树、哈希表|medium|[JS](medium/construct-binary-tree-from-inorder-and-postorder-traversal.js)|
 | 107.二叉树的层序遍历 II|二叉树、递归|medium|[JS](medium/binary-tree-level-order-traversal-ii.js)|
 | 110.平衡二叉树|二叉树、递归|easy|[JS](easy/balanced-binary-tree.js)|
 | 111.二叉树的最小深度|二叉树、递归|easy|[JS](easy/minimum-depth-of-binary-tree.js)|
@@ -98,6 +99,7 @@
 | 848.字母移位|前缀和|medium|[JS](medium/shifting-letters.js)|
 | 860.柠檬水找零|贪心|easy|[JS](easy/lemonade-change.js)|
 | 876.链表的中间结点|链表、双指针|easy|[JS](easy/middle-of-the-linked-list.js)|
+| 889. 根据前序和后序遍历构造二叉树|二叉树|medium|[JS](medium/construct-binary-tree-from-preorder-and-postorder-traversal.js)|
 | 905.按奇偶排序数组|双指针|easy|[JS](easy/sort-array-by-parity.js)|
 | 912.排序数组|多种排序|medium|[JS](medium/sort-an-array.js)|
 | 977.有序数组的平方|数组、双指针|easy|[JS](easy/squares-of-a-sorted-array)|
