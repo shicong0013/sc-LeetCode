@@ -47,6 +47,7 @@
 | 105.从前序与中序遍历序列构造二叉树\* |  二叉树、哈希表  | medium |  [JS](medium/construct-binary-tree-from-preorder-and-inorder-traversal.js)  |
 | 106.从中序与后序遍历序列构造二叉树\* |  二叉树、哈希表  | medium | [JS](medium/construct-binary-tree-from-inorder-and-postorder-traversal.js)  |
 | 107.二叉树的层序遍历 II              |   二叉树、递归   | medium |            [JS](medium/binary-tree-level-order-traversal-ii.js)             |
+| 108.将有序数组转换为二叉搜索树       |   二叉树、递归   |  easy  |          [JS](easy/convert-sorted-array-to-binary-search-tree.js)           |
 | 110.平衡二叉树                       |   二叉树、递归   |  easy  |                     [JS](easy/balanced-binary-tree.js)                      |
 | 111.二叉树的最小深度                 |   二叉树、递归   |  easy  |                 [JS](easy/minimum-depth-of-binary-tree.js)                  |
 | 118.杨辉三角                         |     动态规划     |  easy  |                       [JS](easy/pascals-triangle.js)                        |
