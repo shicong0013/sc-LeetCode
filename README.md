@@ -50,6 +50,7 @@
 | 108.将有序数组转换为二叉搜索树       |   二叉树、递归   |  easy  |          [JS](easy/convert-sorted-array-to-binary-search-tree.js)           |
 | 110.平衡二叉树                       |   二叉树、递归   |  easy  |                     [JS](easy/balanced-binary-tree.js)                      |
 | 111.二叉树的最小深度                 |   二叉树、递归   |  easy  |                 [JS](easy/minimum-depth-of-binary-tree.js)                  |
+| 112.路径总和                         |   二叉树、递归   |  easy  |                           [JS](easy/path-sum.js)                            |
 | 118.杨辉三角                         |     动态规划     |  easy  |                       [JS](easy/pascals-triangle.js)                        |
 | 136.只出现一次的数字                 |      位运算      |  easy  |                         [JS](easy/single-number.js)                         |
 | 141.环形链表                         |       链表       |  easy  |                       [JS](easy/linked-list-cycle.js)                       |
