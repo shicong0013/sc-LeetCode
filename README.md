@@ -75,6 +75,7 @@
 | 237.删除链表中的节点                 |       链表       | medium |                [JS](medium/delete-node-in-a-linked-list.js)                 |
 | 240.搜索二维矩阵 II                  |    二分、分治    | medium |                    [JS](medium/search-a-2d-matrix-ii.js)                    |
 | 242.有效的字母异位词                 |      哈希表      |  easy  |                         [JS](easy/valid-anagram.js)                         |
+| 257. 二叉树的所有路径                |      二叉树      |  easy  |                       [JS](easy/binary-tree-paths.js)                       |
 | 258.各位相加                         |       数学       |  easy  |                          [JS](easy/add-digits.js)                           |
 | 263.丑数                             |       数学       |  easy  |                          [JS](easy/ugly-number.js)                          |
 | 283.移动零                           |      双指针      |  easy  |                          [JS](easy/move-zeroes.js)                          |
