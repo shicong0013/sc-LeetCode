@@ -92,6 +92,7 @@
 | 387.字符串中的第一个唯一字符\*       |       哈希       |  easy  |              [JS](easy/first-unique-character-in-a-string.js)               |
 | 389.找不同                           |  哈希表、位运算  |  easy  |                      [JS](easy/find-the-difference.js)                      |
 | 415.字符串相加                       |       数学       |  easy  |                          [JS](easy/add-strings.js)                          |
+| 404. 左叶子之和                      |      二叉树      |  easy  |                      [JS](easy/sum-of-left-leaves.js)                       |
 | 445.两数相加 II                      |  链表、递归、栈  | medium |                     [JS](medium/add-two-numbers-ii.js)                      |
 | 461.汉明距离                         |      位运算      |  easy  |                       [JS](easy/hamming-distance.js)                        |
 | 498.对角线遍历                       |       数组       | medium |                      [JS](medium/diagonal-traverse.js)                      |
