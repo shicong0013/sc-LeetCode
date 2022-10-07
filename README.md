@@ -94,6 +94,7 @@
 | 415.字符串相加                       |       数学       |  easy  |                          [JS](easy/add-strings.js)                          |
 | 404. 左叶子之和                      |      二叉树      |  easy  |                      [JS](easy/sum-of-left-leaves.js)                       |
 | 445.两数相加 II                      |  链表、递归、栈  | medium |                     [JS](medium/add-two-numbers-ii.js)                      |
+| 450.删除二叉搜索树中的节点           |      二叉树      | medium |                    [JS](medium/delete-node-in-a-bst.js)                     |
 | 461.汉明距离                         |      位运算      |  easy  |                       [JS](easy/hamming-distance.js)                        |
 | 498.对角线遍历                       |       数组       | medium |                      [JS](medium/diagonal-traverse.js)                      |
 | 504.七进制数                         |       数学       |  easy  |                            [JS](easy/base-7.js)                             |
