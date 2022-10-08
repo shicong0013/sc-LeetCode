@@ -100,6 +100,7 @@
 | 504.七进制数                         |       数学       |  easy  |                            [JS](easy/base-7.js)                             |
 | 507.完美数                           |       数学       |  easy  |                        [JS](easy/perfect-number.js)                         |
 | 509.斐波那契数\*                     |  递归、动态规划  |  easy  |                        [JS](easy/fibonacci-numbe.js)                        |
+| 606. 根据二叉树创建字符串            |      二叉树      |  easy  |               [JS](easy/construct-string-from-binary-tree.js)               |
 | 617.合并二叉树                       |   二叉树、递归   |  easy  |                    [JS](easy/merge-two-binary-trees.js)                     |
 | 647.回文子串--                       |     动态规划     | medium |                   [JS](medium/palindromic-substrings.js)                    |
 | 655.输出二叉树                       | 二叉树、DFS、BFS | medium |                      [JS](medium/print-binary-tree.js)                      |
