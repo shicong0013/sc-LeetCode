@@ -106,6 +106,7 @@
 | 647.回文子串--                       |     动态规划     | medium |                   [JS](medium/palindromic-substrings.js)                    |
 | 655.输出二叉树                       | 二叉树、DFS、BFS | medium |                      [JS](medium/print-binary-tree.js)                      |
 | 674.最长连续递增序列\*               |     动态规划     |  easy  |           [JS](easy/longest-continuous-increasing-subsequence.js)           |
+| 701. 二叉搜索树中的插入操作          |      二叉树      |  easy  |               [JS](easy/insert-into-a-binary-search-tree.js)                |
 | 704.二分查找                         |      二分法      |  easy  |                         [JS](easy/binary-search.js)                         |
 | 709.转换成小写字母                   |      字符串      |  easy  |                         [JS](easy/to-lower-case.js)                         |
 | 728.自除数\*                         |       数学       |  easy  |                     [JS](easy/self-dividing-numbers.js)                     |
