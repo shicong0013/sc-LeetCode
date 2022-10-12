@@ -109,6 +109,7 @@
 | 700. 二叉搜索树中的搜索              |      二叉树      |  easy  |                [JS](easy/search-in-a-binary-search-tree.js)                 |
 | 701. 二叉搜索树中的插入操作          |      二叉树      |  easy  |               [JS](easy/insert-into-a-binary-search-tree.js)                |
 | 704.二分查找                         |      二分法      |  easy  |                         [JS](easy/binary-search.js)                         |
+| 706. 设计哈希映射                    |      哈希表      |  easy  |                        [JS](easy/design-hashmap.js)                         |
 | 709.转换成小写字母                   |      字符串      |  easy  |                         [JS](easy/to-lower-case.js)                         |
 | 728.自除数\*                         |       数学       |  easy  |                     [JS](easy/self-dividing-numbers.js)                     |
 | 848.字母移位                         |      前缀和      | medium |                      [JS](medium/shifting-letters.js)                       |
