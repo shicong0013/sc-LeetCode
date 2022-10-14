@@ -111,6 +111,7 @@
 | 704.二分查找                         |      二分法      |  easy  |                         [JS](easy/binary-search.js)                         |
 | 705. 设计哈希集合                    |      哈希表      |  easy  |                        [JS](easy//design-hashset.js)                        |
 | 706. 设计哈希映射                    |      哈希表      |  easy  |                        [JS](easy/design-hashmap.js)                         |
+| 707. 设计链表                        |       链表       | medium |                     [JS](medium/design-linked-list.js)                      |
 | 709.转换成小写字母                   |      字符串      |  easy  |                         [JS](easy/to-lower-case.js)                         |
 | 728.自除数\*                         |       数学       |  easy  |                     [JS](easy/self-dividing-numbers.js)                     |
 | 848.字母移位                         |      前缀和      | medium |                      [JS](medium/shifting-letters.js)                       |
