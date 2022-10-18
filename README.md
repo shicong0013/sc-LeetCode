@@ -15,6 +15,7 @@
 | 11.盛最多水的容器                    |   双指针、贪心   | medium |                  [JS](medium/container-with-most-water.js)                  |
 | 13.罗马数字转整数                    |      哈希表      |  easy  |                       [JS](easy/roman-to-integer.js)                        |
 | 14.最长公共前缀                      |      字符串      |  easy  |                     [JS](easy/longest-common-prefix.js)                     |
+| 17. 电话号码的字母组合               |       回溯       | medium |            [JS](medium/letter-combinations-of-a-phone-number.js)            |
 | 19.删除链表的倒数第 N 个结点         |    链表、递归    | medium |              [JS](medium/remove-nth-node-from-end-of-list.js)               |
 | 26.删除有序数组中的重复项            |   数组、双指针   |  easy  |              [JS](easy/remove-duplicates-from-sorted-array.js)              |
 | 20.有效的括号                        |        栈        |  easy  |                       [JS](easy/valid-parentheses.js)                       |
