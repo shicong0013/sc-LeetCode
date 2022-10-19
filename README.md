@@ -25,6 +25,7 @@
 | 38.外观数列                          |       数学       | medium |                        [JS](medium/count-and-say.js)                        |
 | 42.接雨水\*                          |      双指针      |  hard  |                      [JS](hard/trapping-rain-water.js)                      |
 | 43.字符串相乘\*                      |       数学       | medium |                      [JS](medium/multiply-strings.js)                       |
+| 46. 全排列                           |       回溯       | medium |                        [JS](medium/permutations.js)                         |
 | 48.旋转矩阵                          |       数组       | medium |                        [JS](medium/rotate-image.js)                         |
 | 49.字母异位词分组                    |      哈希表      | medium |                       [JS](medium/group-anagrams.js)                        |
 | 50.Pow(x, n)                         |    数学、递归    | medium |                           [JS](medium/powx-n.js)                            |
