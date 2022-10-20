@@ -40,6 +40,7 @@
 | 74.搜索二维矩阵                      |      二分法      | medium |                     [JS](medium/search-a-2d-matrix.js)                      |
 | 83.删除排序链表中的重复元素          |    递归、链表    |  easy  |              [JS](easy/remove-duplicates-from-sorted-list.js)               |
 | 88.合并两个有序数组                  |      双指针      |  easy  |                      [JS](easy/merge-sorted-array.js)                       |
+| 93. 复原 IP 地址                     |       回溯       | medium |                    [JS](medium/restore-ip-addresses.js)                     |
 | 94.二叉树的中序遍历                  |   二叉树、递归   |  easy  |                 [JS](easy/binary-tree-inorder-traversal.js)                 |
 | 95. 不同的二叉搜索树 II              |      二叉树      | medium |                [JS](medium/unique-binary-search-trees-ii.js)                |
 | 96.不同的二叉搜索树                  | 二叉树、动态规划 | medium |                 [JS](medium/unique-binary-search-trees.js)                  |
