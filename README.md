@@ -23,6 +23,7 @@
 | 24.两两交换链表中的节点              |    链表、递归    | medium |                     [JS](medium/swap-nodes-in-pairs.js)                     |
 | 35.搜索插入位置                      |      二分法      |  easy  |                    [JS](easy/search-insert-position.js)                     |
 | 38.外观数列                          |       数学       | medium |                        [JS](medium/count-and-say.js)                        |
+| 39. 组合总和                         |       回溯       | medium |                       [JS](medium/combination-sum.js)                       |
 | 42.接雨水\*                          |      双指针      |  hard  |                      [JS](hard/trapping-rain-water.js)                      |
 | 43.字符串相乘\*                      |       数学       | medium |                      [JS](medium/multiply-strings.js)                       |
 | 46. 全排列                           |       回溯       | medium |                        [JS](medium/permutations.js)                         |
