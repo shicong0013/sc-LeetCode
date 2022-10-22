@@ -20,6 +20,7 @@
 | 26.删除有序数组中的重复项            |   数组、双指针   |  easy  |              [JS](easy/remove-duplicates-from-sorted-array.js)              |
 | 20.有效的括号                        |        栈        |  easy  |                       [JS](easy/valid-parentheses.js)                       |
 | 21.合并两个有序链表                  |    链表、递归    |  easy  |                    [JS](easy/merge-two-sorted-lists.js)                     |
+| 22. 括号生成                         |    回溯、递归    | medium |                    [JS](medium/generate-parentheses.js)                     |
 | 24.两两交换链表中的节点              |    链表、递归    | medium |                     [JS](medium/swap-nodes-in-pairs.js)                     |
 | 35.搜索插入位置                      |      二分法      |  easy  |                    [JS](easy/search-insert-position.js)                     |
 | 38.外观数列                          |       数学       | medium |                        [JS](medium/count-and-say.js)                        |
