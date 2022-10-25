@@ -31,6 +31,7 @@
 | 48.旋转矩阵                          |       数组       | medium |                        [JS](medium/rotate-image.js)                         |
 | 49.字母异位词分组                    |      哈希表      | medium |                       [JS](medium/group-anagrams.js)                        |
 | 50.Pow(x, n)                         |    数学、递归    | medium |                           [JS](medium/powx-n.js)                            |
+| 51. N 皇后\*                         |   回溯、位运算   |  hard  |                           [JS](hard/n-queens.js)                            |
 | 53.最大子数组和                      |  分治、动态规划  | medium |                      [JS](medium/maximum-subarray.js)                       |
 | 62.不同路径\*                        |     动态规划     | medium |                        [JS](medium/unique-paths.js)                         |
 | 66.加一                              |       数组       |  easy  |                           [JS](easy/plus-one.js)                            |
