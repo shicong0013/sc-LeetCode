@@ -121,6 +121,7 @@
 | 706. 设计哈希映射                    |      哈希表      |  easy  |                        [JS](easy/design-hashmap.js)                         |
 | 707. 设计链表\*                      |       链表       | medium |                     [JS](medium/design-linked-list.js)                      |
 | 709.转换成小写字母                   |      字符串      |  easy  |                         [JS](easy/to-lower-case.js)                         |
+| 718. 最长重复子数组                  |     动态规划     | medium |             [JS](medium/maximum-length-of-repeated-subarray.js)             |
 | 728.自除数\*                         |       数学       |  easy  |                     [JS](easy/self-dividing-numbers.js)                     |
 | 848.字母移位                         |      前缀和      | medium |                      [JS](medium/shifting-letters.js)                       |
 | 860.柠檬水找零                       |       贪心       |  easy  |                        [JS](easy/lemonade-change.js)                        |
