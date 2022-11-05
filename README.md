@@ -61,6 +61,7 @@
 | 112.路径总和                         |   二叉树、递归   |  easy  |                           [JS](easy/path-sum.js)                            |
 | 113.路径总和 II\*                    |      二叉树      | medium |                         [JS](medium/path-sum-ii.js)                         |
 | 114.二叉树展开为链表                 |      二叉树      | medium |             [JS](medium/flatten-binary-tree-to-linked-list.js)              |
+| 115. 不同的子序列                    |     动态规划     |  hard  |                     [JS](hard/distinct-subsequences.js)                     |
 | 118.杨辉三角                         |     动态规划     |  easy  |                       [JS](easy/pascals-triangle.js)                        |
 | 129. 求根节点到叶节点数字之和        |   二叉树、DFS    | medium |                   [JS](easy/sum-root-to-leaf-numbers.js)                    |
 | 136.只出现一次的数字                 |      位运算      |  easy  |                         [JS](easy/single-number.js)                         |
@@ -70,7 +71,7 @@
 | 145.二叉树的后序遍历                 |   二叉树、递归   |  easy  |                [JS](easy/binary-tree-postorder-traversal.js)                |
 | 148.排序链表                         |    链表、递归    | medium |                          [JS](medium/sort-list.js)                          |
 | 167.两数之和 II                      |      双指针      | medium |              [JS](medium/two-sum-ii-input-array-is-sorted.js)               |
-| 169.多数元素                         |      位运算      |  哈希  |                       [JS](easy/majority-element.js)                        |
+| 169.多数元素                         |      位运算      |  easy  |                       [JS](easy/majority-element.js)                        |
 | 191.位 1 的个数                      |      位运算      |  easy  |                       [JS](easy/number-of-1-bits.js)                        |
 | 193.有效电话号码                     |       正则       |  easy  |                      [JS](easy/valid-phone-numbers.js)                      |
 | 202.快乐数                           |  哈希表、双指针  |  easy  |                         [JS](easy/happy-number.js)                          |
