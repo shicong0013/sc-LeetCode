@@ -40,6 +40,7 @@
 | 69.x 的平方根                        |      二分法      |  easy  |                             [JS](easy/sqrtx.js)                             |
 | 70.爬楼梯                            |     动态规划     |  easy  |                        [JS](easy/climbing-stairs.js)                        |
 | 71.简化路径                          |      字符串      | medium |                        [JS](medium/simplify-path.js)                        |
+| 72. 编辑距离                         |     动态规划     |  hard  |                         [JS](hard/edit-distance.js)                         |
 | 73.矩阵置零                          |    数组、哈希    | medium |                      [JS](medium/set-matrix-zeroes.js)                      |
 | 74.搜索二维矩阵                      |      二分法      | medium |                     [JS](medium/search-a-2d-matrix.js)                      |
 | 83.删除排序链表中的重复元素          |    递归、链表    |  easy  |              [JS](easy/remove-duplicates-from-sorted-list.js)               |
