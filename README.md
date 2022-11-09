@@ -111,6 +111,7 @@
 | 504.七进制数                         |       数学       |  easy  |                            [JS](easy/base-7.js)                             |
 | 507.完美数                           |       数学       |  easy  |                        [JS](easy/perfect-number.js)                         |
 | 509.斐波那契数\*                     |  递归、动态规划  |  easy  |                        [JS](easy/fibonacci-numbe.js)                        |
+| 516. 最长回文子序列                  |     动态规划     | medium |               [JS](medium/longest-palindromic-subsequence.js)               |
 | 583. 两个字符串的删除操作            |     动态规划     | medium |              [JS](medium/delete-operation-for-two-strings.js)               |
 | 606. 根据二叉树创建字符串            |      二叉树      |  easy  |               [JS](easy/construct-string-from-binary-tree.js)               |
 | 617.合并二叉树                       |   二叉树、递归   |  easy  |                    [JS](easy/merge-two-binary-trees.js)                     |
