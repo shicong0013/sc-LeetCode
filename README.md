@@ -10,6 +10,7 @@
 | 2.两数相加                           |    链表、递归    | medium |                       [JS](medium/add-two-numbers.js)                       |
 | 5.最长回文子串--                     |     动态规划     | medium |                [JS](medium/longest-palindromic-substring.js)                |
 | 3.无重复字符的最长子串               | 哈希表、滑动窗口 | medium |       [JS](medium/longest-substring-without-repeating-characters.js)        |
+| 5. 最长回文子串                      |     动态规划     | medium |                [JS](medium/longest-palindromic-substring.js)                |
 | 7.整数反转                           |       数学       | medium |                       [JS](medium/reverse-integer.js)                       |
 | 9.回文数                             |       数学       |  easy  |                       [JS](easy/palindrome-number.js)                       |
 | 11.盛最多水的容器                    |   双指针、贪心   | medium |                  [JS](medium/container-with-most-water.js)                  |
