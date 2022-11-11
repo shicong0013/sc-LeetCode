@@ -137,6 +137,7 @@
 | 912.排序数组                         |     多种排序     | medium |                        [JS](medium/sort-an-array.js)                        |
 | 977.有序数组的平方                   |   数组、双指针   |  easy  |                    [JS](easy/squares-of-a-sorted-array)                     |
 | 1035. 不相交的线                     |     动态规划     | medium |                       [JS](medium/uncrossed-lines.js)                       |
+| 1106. 解析布尔表达式                 |        栈        |  hard  |                 [JS](hard/parsing-a-boolean-expression.js)                  |
 | 1143. 最长公共子序列                 |     动态规划     | medium |                 [JS](medium/longest-common-subsequence.js)                  |
 | 1480.一维数组的动态和                |       数组       |  easy  |                    [JS](easy/running-sum-of-1d-array.js)                    |
 | 1748.唯一元素的和                    |       数组       |  easy  |                    [JS](easy/sum-of-unique-elements.js)                     |
