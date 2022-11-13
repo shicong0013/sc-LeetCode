@@ -65,6 +65,7 @@
 | 114.二叉树展开为链表                 |      二叉树      | medium |             [JS](medium/flatten-binary-tree-to-linked-list.js)              |
 | 115. 不同的子序列                    |     动态规划     |  hard  |                     [JS](hard/distinct-subsequences.js)                     |
 | 118.杨辉三角                         |     动态规划     |  easy  |                       [JS](easy/pascals-triangle.js)                        |
+| 124. 二叉树中的最大路径和            |       递归       |  hard  |                 [JS](hard/binary-tree-maximum-path-sum.js)                  |
 | 129. 求根节点到叶节点数字之和        |   二叉树、DFS    | medium |                   [JS](easy/sum-root-to-leaf-numbers.js)                    |
 | 136.只出现一次的数字                 |      位运算      |  easy  |                         [JS](easy/single-number.js)                         |
 | 141.环形链表                         |       链表       |  easy  |                       [JS](easy/linked-list-cycle.js)                       |
